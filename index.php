@@ -8,5 +8,5 @@
 </head>
 <body>
     <h2>php hello world</h2>
-</body>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo maxime illum fugit commodi soluta totam, corrupti dicta esse. Corporis ut saepe ab, praesentium itaque cumque facilis nesciunt voluptates atque maxime?</p>
 </html>
